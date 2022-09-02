@@ -1,0 +1,20 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+
+.block {
+  padding: 10px;
+  margin: 5px;
+}
+
+.btn {
+  color: red;
+}
+
+footer {
+  margin: 10px;
+  min-height: 200px;
+  background-color: pink;
+  width: 100%;
+}
